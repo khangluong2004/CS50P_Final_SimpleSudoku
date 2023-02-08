@@ -1,0 +1,6 @@
+tabulate: Library for table
+pyfiglet: For the font for greeting
+cowsay: For error and success message
+dinosay: For congratulation message
+pytest: For the unit tests
+pytest-mock: For the unit tests requiring inputs
